@@ -6,6 +6,5 @@
 
 3. [프로젝트E. 예약 : 한줄평 관련 web API 만들기](https://charminseok.tistory.com/27)
 
-프로젝트하면서 안되는 부분도 많았지만 검색해가면서 재밌게 끝냈다!
 
-# 스프링 기초 공부(https://charminseok.tistory.com/category/JAVA/Spring)
+# [스프링 기초 공부](https://charminseok.tistory.com/category/JAVA/Spring)
